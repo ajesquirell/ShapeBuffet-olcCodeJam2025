@@ -1,0 +1,1 @@
+em++ -std=c++20 -O2 -s ALLOW_MEMORY_GROWTH=1 -s MAX_WEBGL_VERSION=2 -s MIN_WEBGL_VERSION=2 -s USE_LIBPNG=1 -sSTACK_SIZE=131072 -sLLD_REPORT_UNDEFINED -sEXPORTED_RUNTIME_METHODS=HEAPF32 ./olcCodeJam2025.cpp -o pge.html --preload-file assets --shell-file basic_template.html

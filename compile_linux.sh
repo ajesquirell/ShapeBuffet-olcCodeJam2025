@@ -1,0 +1,1 @@
+g++ -o shape_buffet olcCodeJam2025.cpp -lX11 -lGL -lpthread -lpng -lstdc++fs -ldl -std=c++20
